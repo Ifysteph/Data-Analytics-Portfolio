@@ -70,7 +70,21 @@ The NYC Department of Health faces "information overload" due to the sheer volum
 * **SQL:** Aggregation of large-scale inspection data and violation analysis
 * **Power BI:** Visualization of geographic and long-term risk trends
 
+```  
+nyc-food-safety-analysis/
+ ├── README.md
+ ├── data/
+ │   └── nyc_inspection_data.csv
+ ├── excel/
+ │   └── inspection_analysis.xlsx
+ ├── sql/
+ │   └── NYC_Inspection_SQL.sql
+ ├── powerbi/
+ │   └── NYC_Inspection_Dashboard.pbix
+ └── documentation/
+     └── NYC_Inspection_Analysis_Report.pptx
 
+```
 
 
 
