@@ -1,4 +1,4 @@
-# NYC_food_safety_analysis
+
 # NYC Restaurant Food Safety Analysis
 
 ## Project Overview
